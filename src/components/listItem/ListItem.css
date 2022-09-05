@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    box-shadow: 0 0 5px black;
+    border-radius: 30px;
+    height: 40px;
+    width: 350px;
+    margin: 20px auto 10px;
+    line-height: 40px;
+}
+
+.secondItem { 
+    margin-right: 30px ;
+    font-weight: bold;
+    font-size: 18px; 
+    color:olive;
+}
+
+.close {
+    font-size: 22px;
+    color: red;
+    cursor: pointer;
+
+}
